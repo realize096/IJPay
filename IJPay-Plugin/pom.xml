@@ -18,7 +18,7 @@
 	</modules>
 
 	<properties>
-		<spring.boot.version>2.7.5</spring.boot.version>
+		<spring.boot.version>3.2.11</spring.boot.version>
 		<lombok.version>1.18.26</lombok.version>
 		<slf4j.api.version>2.0.6</slf4j.api.version>
 	</properties>
@@ -44,7 +44,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-webmvc</artifactId>
-				<version>5.3.23</version>
+				<version>6.1.14</version>
 				<scope>provided</scope>
 			</dependency>
 			<dependency>
